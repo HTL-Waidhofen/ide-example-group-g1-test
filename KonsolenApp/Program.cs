@@ -11,6 +11,7 @@ namespace KonsolenApp
         static void Main(string[] args)
         {
             Console.WriteLine("Dies ist eine Testausgabe");
+            Console.WriteLine("Gruppe 1");
             Console.ReadLine();
         }
     }
